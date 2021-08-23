@@ -116,7 +116,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #e44c65 !important;
+			color: #603272 !important;
 			border-bottom-color: transparent;
 		}
 
@@ -134,7 +134,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #603272;
+		color: #ffffff;
 		font-weight: 300;
 		line-height: 1em;
 		margin: 0 0 1em 0;
